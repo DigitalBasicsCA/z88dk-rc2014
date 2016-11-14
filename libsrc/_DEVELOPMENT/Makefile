@@ -1,5 +1,5 @@
 
-TARGET ?= cpm embedded m sms zx
+TARGET ?= cpm embedded rc2014 m sms zx
 
 jobs := $(foreach target,$(TARGET),job-$(target))
 cleans := $(foreach target,$(TARGET),clean-$(target))
