@@ -1,0 +1,16 @@
+/COPYRIGHT/1.1/Sun Sep 15 17:10:07 2002//
+/README/1.1/Sun Sep 15 17:10:07 2002//
+/engine.c/1.1/Sun Sep 15 17:10:07 2002//
+/engine.h/1.1/Sun Sep 15 17:10:07 2002//
+/regcomp.h/1.1/Sun Sep 15 17:10:07 2002//
+/regerror.h/1.1/Sun Sep 15 17:10:07 2002//
+/regex.h/1.1/Sun Sep 15 17:10:07 2002//
+/regex2.h/1.1/Sun Sep 15 17:10:07 2002//
+/utils.h/1.1/Sun Sep 15 17:10:07 2002//
+/regexec.c/1.3/Mon Mar 16 03:03:00 2015//
+/regfree.c/1.3/Mon Mar 16 03:03:01 2015//
+/cclass.h/1.2/Wed Mar 30 03:01:35 2016//
+/cname.h/1.2/Wed Mar 30 03:01:35 2016//
+/regerror.c/1.5/Wed Mar 30 03:01:35 2016//
+/regcomp.c/1.4/Sat Sep  3 03:02:17 2016//
+D

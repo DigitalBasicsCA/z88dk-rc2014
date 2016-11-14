@@ -1,0 +1,29 @@
+D/basic////
+D/tape////
+/Makefile/1.3/Thu Apr 19 02:02:05 2012//
+D/chroma81////
+/zx81.lst/1.17/Sat Dec 13 03:01:43 2014//
+/ascii_zx.asm/1.5/Mon Jun 27 03:01:18 2016//
+/asctozx81.asm/1.4/Mon Jun 27 03:01:18 2016//
+/cnvtab.asm/1.10/Mon Jun 27 03:01:18 2016//
+/filltxt.asm/1.9/Mon Jun 27 03:01:18 2016//
+/gen_tv_field.asm/1.4/Mon Jun 27 03:01:18 2016//
+/gen_tv_field_init.asm/1.4/Mon Jun 27 03:01:18 2016//
+/get_psg.asm/1.4/Mon Jun 27 03:01:18 2016//
+/invtxt.asm/1.4/Mon Jun 27 03:01:18 2016//
+/mirrortxt.asm/1.3/Mon Jun 27 03:01:18 2016//
+/psg_init.asm/1.3/Mon Jun 27 03:01:18 2016//
+/rollchr.asm/1.3/Mon Jun 27 03:01:18 2016//
+/scrolldowntxt.asm/1.6/Mon Jun 27 03:01:18 2016//
+/scrolluptxt.asm/1.4/Mon Jun 27 03:01:18 2016//
+/set_psg.asm/1.4/Mon Jun 27 03:01:18 2016//
+/zx81toasc.asm/1.6/Mon Jun 27 03:01:18 2016//
+/zx_ascii.asm/1.5/Mon Jun 27 03:01:18 2016//
+/zx_asciimode.asm/1.4/Mon Jun 27 03:01:18 2016//
+/zx_break.asm/1.4/Mon Jun 27 03:01:18 2016//
+/zx_cls.asm/1.9/Mon Jun 27 03:01:18 2016//
+/zx_coord_adj.asm/1.6/Mon Jun 27 03:01:18 2016//
+/zx_dfile_addr.asm/1.6/Mon Jun 27 03:01:18 2016//
+/zx_setcursorpos.asm/1.5/Mon Jun 27 03:01:18 2016//
+/zx_setcursorpos_callee.asm/1.8/Mon Jun 27 03:01:18 2016//
+/zx_topleft.asm/1.6/Mon Jun 27 03:01:18 2016//

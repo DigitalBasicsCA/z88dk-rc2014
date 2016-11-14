@@ -1,0 +1,33 @@
+/Makefile/1.13/Sun Jun 18 17:59:39 2006//
+/README/1.2/Mon Sep  3 16:13:20 2001//
+D/WHmath////
+D/farcall////
+D/graphics////
+/DbDeleteText.asm/1.3/Mon Jan 19 03:01:53 2015//
+/DbFindRecord.asm/1.4/Mon Jan 19 03:01:53 2015//
+/DbGetRecordCount.asm/1.4/Mon Jan 19 03:01:53 2015//
+/DbInsertRecord.asm/1.2/Mon Jan 19 03:01:53 2015//
+/DbInsertText.asm/1.3/Mon Jan 19 03:01:53 2015//
+/DbReadField.asm/1.3/Mon Jan 19 03:01:53 2015//
+/DbReadRecord.asm/1.2/Mon Jan 19 03:01:53 2015//
+/DbReadText.asm/1.3/Mon Jan 19 03:01:53 2015//
+/DbUpdateField.asm/1.2/Mon Jan 19 03:01:53 2015//
+/DbUpdateRecord.asm/1.2/Mon Jan 19 03:01:53 2015//
+/DsPrintf.asm/1.3/Mon Jan 19 03:01:53 2015//
+/DsPrintfe.asm/1.3/Mon Jan 19 03:01:53 2015//
+/DsTrace.asm/1.2/Mon Jan 19 03:01:53 2015//
+/input8.asm/1.4/Mon Jan 19 03:01:53 2015//
+/output8.asm/1.4/Mon Jan 19 03:01:53 2015//
+/syscall0.asm/1.4/Mon Jan 19 03:01:53 2015//
+/syscall1.asm/1.6/Mon Jan 19 03:01:53 2015//
+/syscall1p.asm/1.4/Mon Jan 19 03:01:53 2015//
+/syscall2.asm/1.5/Mon Jan 19 03:01:53 2015//
+/syscall3.asm/1.5/Mon Jan 19 03:01:53 2015//
+/syscall4.asm/1.5/Mon Jan 19 03:01:53 2015//
+/syscall4d.asm/1.4/Mon Jan 19 03:01:53 2015//
+/syscall5.asm/1.5/Mon Jan 19 03:01:53 2015//
+/syscall5p.asm/1.3/Mon Jan 19 03:01:53 2015//
+/syscall6.asm/1.5/Mon Jan 19 03:01:53 2015//
+/syscall6p.asm/1.6/Mon Jan 19 03:01:53 2015//
+/syscallex.asm/1.8/Mon Jan 19 03:01:53 2015//
+/syscallexl.asm/1.6/Mon Jan 19 03:01:53 2015//

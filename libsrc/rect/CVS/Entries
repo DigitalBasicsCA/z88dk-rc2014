@@ -1,0 +1,27 @@
+/rect.lst/1.1/Tue May 23 03:36:35 2006//
+/RIntersectIval16.asm/1.3/Sat Jun 11 03:01:06 2016//
+/RIntersectIval8.asm/1.3/Sat Jun 11 03:01:06 2016//
+/RIntersectRect16.asm/1.3/Sat Jun 11 03:01:06 2016//
+/RIntersectRect8.asm/1.3/Sat Jun 11 03:01:06 2016//
+/RIsIvalInIval16.asm/1.3/Sat Jun 11 03:01:06 2016//
+/RIsIvalInIval8.asm/1.3/Sat Jun 11 03:01:06 2016//
+/RIsPtInIval16.asm/1.3/Sat Jun 11 03:01:07 2016//
+/RIsPtInIval8.asm/1.3/Sat Jun 11 03:01:07 2016//
+/RIsPtInRect16.asm/1.3/Sat Jun 11 03:01:07 2016//
+/RIsPtInRect8.asm/1.3/Sat Jun 11 03:01:07 2016//
+/RIsRectInRect16.asm/1.3/Sat Jun 11 03:01:07 2016//
+/RIsRectInRect8.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IntersectIval16.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IntersectIval8.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IntersectRect16.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IntersectRect8.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IsIvalInIval16.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IsIvalInIval8.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IsPtInIval16.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IsPtInIval8.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IsPtInRect16.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IsPtInRect8.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IsRectInRect16.asm/1.3/Sat Jun 11 03:01:07 2016//
+/r_IsRectInRect8.asm/1.3/Sat Jun 11 03:01:07 2016//
+/Makefile/1.4/Sun Jul  3 03:01:07 2016//
+D

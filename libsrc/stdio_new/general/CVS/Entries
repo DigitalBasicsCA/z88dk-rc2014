@@ -1,0 +1,15 @@
+/stdio_atou.asm/1.2/Mon Jan 19 03:02:03 2015//
+/stdio_basechar.asm/1.2/Mon Jan 19 03:02:03 2015//
+/stdio_ultoa_any.asm/1.2/Mon Jan 19 03:02:03 2015//
+/stdio_utoa_any.asm/1.2/Mon Jan 19 03:02:03 2015//
+/stdio_buff2caps.asm/1.2/Sat Jan 24 03:01:33 2015//
+/stdio_free.asm/1.2/Sat Jan 24 03:01:33 2015//
+/stdio_idle.asm/1.3/Sat Jan 24 03:01:33 2015//
+/stdio_longnumprec.asm/1.2/Sat Jan 24 03:01:33 2015//
+/stdio_malloc.asm/1.2/Sat Jan 24 03:01:33 2015//
+/stdio_nextarg.asm/1.2/Sat Jan 24 03:01:33 2015//
+/stdio_numprec.asm/1.2/Sat Jan 24 03:01:33 2015//
+/stdio_staterestore.asm/1.2/Sat Jan 24 03:01:33 2015//
+/stdio_statesave.asm/1.2/Sat Jan 24 03:01:33 2015//
+/stdio_varg.asm/1.2/Sat Jan 24 03:01:33 2015//
+D

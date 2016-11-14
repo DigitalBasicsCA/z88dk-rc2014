@@ -1,0 +1,13 @@
+/Makefile/1.7/Wed Mar  5 20:35:46 2008//
+/strdup_far.c/1.3/Wed Apr 18 14:59:40 2001//
+/strcat_far.asm/1.4/Sat Jun 11 03:01:00 2016//
+/strchr_far.asm/1.4/Sat Jun 11 03:01:00 2016//
+/strcpy_far.asm/1.4/Sat Jun 11 03:01:00 2016//
+/strlen_far.asm/1.4/Sat Jun 11 03:01:00 2016//
+/strlwr_far.asm/1.4/Sat Jun 11 03:01:00 2016//
+/strncat_far.asm/1.4/Sat Jun 11 03:01:00 2016//
+/strncpy_far.asm/1.4/Sat Jun 11 03:01:00 2016//
+/strrchr_far.asm/1.4/Sat Jun 11 03:01:00 2016//
+/strupr_far.asm/1.4/Sat Jun 11 03:01:00 2016//
+/.cvsignore/1.1/Fri Jul 22 16:32:35 2016//
+D

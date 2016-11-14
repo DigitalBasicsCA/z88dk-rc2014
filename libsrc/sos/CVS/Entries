@@ -1,0 +1,21 @@
+/Makefile/1.1/Thu Dec  5 09:34:00 2013//
+D/tape////
+/break_key.asm/1.4/Mon Jun 20 03:01:14 2016//
+/get_cursor_x.asm/1.4/Mon Jun 20 03:01:14 2016//
+/get_cursor_y.asm/1.4/Mon Jun 20 03:01:14 2016//
+/get_sos_model.asm/1.3/Mon Jun 20 03:01:14 2016//
+/get_sos_version.asm/1.3/Mon Jun 20 03:01:14 2016//
+/lptoff.asm/1.4/Mon Jun 20 03:01:14 2016//
+/lpton.asm/1.4/Mon Jun 20 03:01:14 2016//
+/print_error.asm/1.4/Mon Jun 20 03:01:14 2016//
+/screen.asm/1.4/Mon Jun 20 03:01:14 2016//
+/screen_callee .asm/1.5/Mon Jun 20 03:01:14 2016//
+/setcursorpos.asm/1.4/Mon Jun 20 03:01:14 2016//
+/setcursorpos_callee.asm/1.5/Mon Jun 20 03:01:14 2016//
+/sos_file.asm/1.4/Mon Jun 20 03:01:14 2016//
+/sos_file_callee.asm/1.5/Mon Jun 20 03:01:14 2016//
+/sos_rdd.asm/1.3/Mon Jun 20 03:01:14 2016//
+/sos_ropen.asm/1.3/Mon Jun 20 03:01:14 2016//
+/sos_wopen.asm/1.3/Mon Jun 20 03:01:14 2016//
+/sos_wrd.asm/1.3/Mon Jun 20 03:01:14 2016//
+/width.asm/1.4/Mon Jun 20 03:01:14 2016//

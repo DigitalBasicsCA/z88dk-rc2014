@@ -1,0 +1,27 @@
+D/math////
+D/fast////
+D/small////
+/l_addu_hl_bc.asm/1.5/Thu Dec  3 03:01:28 2015//
+/l_addu_hl_de.asm/1.5/Thu Dec  3 03:01:28 2015//
+/l_asr_hl.asm/1.6/Thu Dec  3 03:01:28 2015//
+/l_divu_hl.asm/1.2/Thu Dec  3 03:01:28 2015//
+/l_lsl_hl.asm/1.6/Thu Dec  3 03:01:28 2015//
+/l_lsr_hl.asm/1.6/Thu Dec  3 03:01:28 2015//
+/l_ltu_bc_de.asm/1.4/Thu Dec  3 03:01:28 2015//
+/l_ltu_bc_hl.asm/1.6/Thu Dec  3 03:01:28 2015//
+/l_ltu_de_hl.asm/1.6/Thu Dec  3 03:01:28 2015//
+/l_ltu_hl_bc.asm/1.6/Thu Dec  3 03:01:28 2015//
+/l_ltu_hl_de.asm/1.7/Thu Dec  3 03:01:28 2015//
+/l_maxu_bc_hl.asm/1.5/Thu Dec  3 03:01:28 2015//
+/l_minu_bc_hl.asm/1.6/Thu Dec  3 03:01:28 2015//
+/l_minu_de_hl.asm/1.5/Thu Dec  3 03:01:28 2015//
+/l_neg_bc.asm/1.5/Thu Dec  3 03:01:28 2015//
+/l_neg_de.asm/1.5/Thu Dec  3 03:01:28 2015//
+/l_neg_hl.asm/1.10/Thu Dec  3 03:01:28 2015//
+/l_power_2_bc.asm/1.6/Thu Dec  3 03:01:28 2015//
+/l_power_2_c.asm/1.6/Thu Dec  3 03:01:28 2015//
+/l_utod_de.asm/1.5/Thu Dec  3 03:01:28 2015//
+/l_utod_hl.asm/1.5/Thu Dec  3 03:01:28 2015//
+/l_incu_bc.asm/1.6/Sat Feb 20 03:01:21 2016//
+/l_incu_de.asm/1.6/Sat Feb 20 03:01:21 2016//
+/l_incu_hl.asm/1.6/Sat Feb 20 03:01:21 2016//

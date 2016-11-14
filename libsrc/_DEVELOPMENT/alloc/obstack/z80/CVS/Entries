@@ -1,0 +1,21 @@
+/asm_obstack_1grow.asm/1.6/Thu Dec  3 03:01:12 2015//
+/asm_obstack_1grow_fast.asm/1.5/Thu Dec  3 03:01:12 2015//
+/asm_obstack_align_distance.asm/1.6/Thu Dec  3 03:01:12 2015//
+/asm_obstack_align_to.asm/1.5/Thu Dec  3 03:01:12 2015//
+/asm_obstack_alloc.asm/1.6/Thu Dec  3 03:01:12 2015//
+/asm_obstack_base.asm/1.7/Thu Dec  3 03:01:12 2015//
+/asm_obstack_blank.asm/1.6/Thu Dec  3 03:01:12 2015//
+/asm_obstack_blank_fast.asm/1.5/Thu Dec  3 03:01:12 2015//
+/asm_obstack_copy.asm/1.6/Thu Dec  3 03:01:12 2015//
+/asm_obstack_copy0.asm/1.7/Thu Dec  3 03:01:12 2015//
+/asm_obstack_finish.asm/1.7/Thu Dec  3 03:01:12 2015//
+/asm_obstack_free.asm/1.6/Thu Dec  3 03:01:12 2015//
+/asm_obstack_grow.asm/1.6/Thu Dec  3 03:01:12 2015//
+/asm_obstack_grow0.asm/1.7/Thu Dec  3 03:01:12 2015//
+/asm_obstack_init.asm/1.7/Thu Dec  3 03:01:12 2015//
+/asm_obstack_int_grow.asm/1.6/Thu Dec  3 03:01:12 2015//
+/asm_obstack_int_grow_fast.asm/1.5/Thu Dec  3 03:01:12 2015//
+/asm_obstack_next_free.asm/1.7/Thu Dec  3 03:01:12 2015//
+/asm_obstack_object_size.asm/1.7/Thu Dec  3 03:01:12 2015//
+/asm_obstack_room.asm/1.7/Thu Dec  3 03:01:12 2015//
+D

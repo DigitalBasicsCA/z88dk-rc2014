@@ -1,0 +1,17 @@
+/SP1DrawUpdateStruct.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_DrawUpdateStructAlways.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_DrawUpdateStructIfInv.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_DrawUpdateStructIfNotRem.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_DrawUpdateStructIfVal.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_GetUpdateStruct.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_Initialize.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_InvUpdateStruct.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_Invalidate.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_IterateUpdateArr.asm/1.5/Thu Dec  3 03:02:08 2015//
+/asm_sp1_IterateUpdateRect.asm/1.5/Thu Dec  3 03:02:08 2015//
+/asm_sp1_RemoveUpdateStruct.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_RestoreUpdateStruct.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_UpdateNow.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_ValUpdateStruct.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_Validate.asm/1.4/Thu Dec  3 03:02:08 2015//
+D

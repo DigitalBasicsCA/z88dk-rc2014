@@ -1,0 +1,13 @@
+/MoveC.asm/1.1/Wed Feb 20 10:17:51 2008//
+/MoveNC.asm/1.1/Wed Feb 20 10:17:51 2008//
+D/draw////
+/SP1AddSprChar.asm/1.2/Mon Jan 19 03:01:58 2015//
+/SP1RemoveSprChar.asm/1.2/Mon Jan 19 03:01:58 2015//
+/_sp1_struct_cs_prototype.asm/1.2/Mon Jan 19 03:01:58 2015//
+/sp1_AddColSpr_callee.asm/1.3/Mon Jan 19 03:01:58 2015//
+/sp1_ChangeSprType_callee.asm/1.3/Mon Jan 19 03:01:58 2015//
+/sp1_CreateSpr_callee.asm/1.3/Mon Jan 19 03:01:58 2015//
+/sp1_InitCharStruct_callee.asm/1.3/Mon Jan 19 03:01:58 2015//
+/sp1_InsertCharStruct_callee.asm/1.3/Mon Jan 19 03:01:58 2015//
+/sp1_MoveSprAbs_callee.asm/1.4/Mon Jan 19 03:01:58 2015//
+/sp1_RemoveCharStruct.asm/1.2/Mon Jan 19 03:01:58 2015//

@@ -1,0 +1,10 @@
+/pause_4ms.asm/1.5/Mon Jan 19 03:01:54 2015//
+/sd_deselect_card.asm/1.2/Mon Jan 19 03:01:54 2015//
+/sd_get_byte.asm/1.3/Mon Jan 19 03:01:54 2015//
+/sd_power_off.asm/1.2/Mon Jan 19 03:01:54 2015//
+/sd_power_on.asm/1.2/Mon Jan 19 03:01:54 2015//
+/sd_read_sector_main.asm/1.4/Mon Jan 19 03:01:54 2015//
+/sd_select_card.asm/1.2/Mon Jan 19 03:01:54 2015//
+/sd_send_byte.asm/1.5/Mon Jan 19 03:01:54 2015//
+/sd_spi_port_fast.asm/1.2/Mon Jan 19 03:01:54 2015//
+D

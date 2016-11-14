@@ -1,0 +1,26 @@
+/zzz_asm_bit_freq.asm/1.1/Sat Apr 19 15:57:07 2014//
+D/asm_bit_beep_raw////
+D/asm_bit_fx////
+D/asm_bit_synth////
+D/asm_bit_beepfx////
+/output_bit_device_1.inc/1.1/Fri Apr 25 05:16:54 2014//
+/output_bit_device_2.inc/1.1/Fri Apr 25 05:16:54 2014//
+/cpu_speed_compensate.inc/1.2/Sun Nov 23 18:43:13 2014//
+/asm_bit_beep.asm/1.6/Thu Dec  3 03:01:44 2015//
+/asm_bit_beep_di.asm/1.7/Thu Dec  3 03:01:44 2015//
+/asm_bit_beep_raw.asm/1.10/Thu Dec  3 03:01:44 2015//
+/asm_bit_beep_raw_di.asm/1.7/Thu Dec  3 03:01:44 2015//
+/asm_bit_beepfx.asm/1.7/Thu Dec  3 03:01:44 2015//
+/asm_bit_beepfx_di.asm/1.6/Thu Dec  3 03:01:44 2015//
+/asm_bit_click.asm/1.7/Thu Dec  3 03:01:44 2015//
+/asm_bit_click_di.asm/1.7/Thu Dec  3 03:01:44 2015//
+/asm_bit_close.asm/1.5/Thu Dec  3 03:01:44 2015//
+/asm_bit_fx.asm/1.5/Thu Dec  3 03:01:44 2015//
+/asm_bit_fx_di.asm/1.7/Thu Dec  3 03:01:44 2015//
+/asm_bit_open.asm/1.6/Thu Dec  3 03:01:44 2015//
+/asm_bit_play.asm/1.8/Thu Dec  3 03:01:44 2015//
+/asm_bit_play_di.asm/1.7/Thu Dec  3 03:01:44 2015//
+/asm_bit_play_tritone.asm/1.9/Thu Dec  3 03:01:44 2015//
+/asm_bit_play_tritone_di.asm/1.5/Thu Dec  3 03:01:44 2015//
+/asm_bit_synth.asm/1.8/Thu Dec  3 03:01:44 2015//
+/asm_bit_synth_di.asm/1.7/Thu Dec  3 03:01:44 2015//

@@ -1,0 +1,12 @@
+D/num_to_txt////
+D/txt_to_num////
+/l_char2num.asm/1.6/Thu Dec  3 03:01:27 2015//
+/l_eat_base_prefix.asm/1.6/Thu Dec  3 03:01:27 2015//
+/l_eat_ddigits.asm/1.2/Thu Dec  3 03:01:27 2015//
+/l_eat_digits.asm/1.6/Thu Dec  3 03:01:27 2015//
+/l_eat_hdigits.asm/1.2/Thu Dec  3 03:01:27 2015//
+/l_eat_sign.asm/1.5/Thu Dec  3 03:01:27 2015//
+/l_eat_ws.asm/1.6/Thu Dec  3 03:01:27 2015//
+/l_hex_nibble.asm/1.6/Thu Dec  3 03:01:27 2015//
+/l_num2char.asm/1.6/Thu Dec  3 03:01:27 2015//
+/l_valid_base.asm/1.5/Thu Dec  3 03:01:27 2015//

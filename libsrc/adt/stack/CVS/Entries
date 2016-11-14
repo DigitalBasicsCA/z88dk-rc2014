@@ -1,0 +1,12 @@
+/adt_StackCount.asm/1.4/Thu May 12 03:00:58 2016//
+/adt_StackCreate.asm/1.7/Thu May 12 03:00:58 2016//
+/adt_StackCreateS.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_StackDelete.asm/1.6/Thu May 12 03:00:58 2016//
+/adt_StackDeleteS.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_StackDeleteS_callee.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_StackDelete_callee.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_StackPeek.asm/1.7/Thu May 12 03:00:58 2016//
+/adt_StackPop.asm/1.7/Thu May 12 03:00:58 2016//
+/adt_StackPush.asm/1.6/Thu May 12 03:00:58 2016//
+/adt_StackPush_callee.asm/1.5/Thu May 12 03:00:58 2016//
+D

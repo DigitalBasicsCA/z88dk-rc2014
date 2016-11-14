@@ -1,0 +1,23 @@
+/asm_w_vector_append.asm/1.9/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_append_n.asm/1.7/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_at.asm/1.9/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_back.asm/1.9/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_capacity.asm/1.9/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_clear.asm/1.6/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_data.asm/1.9/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_destroy.asm/1.8/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_empty.asm/1.8/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_erase.asm/1.8/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_erase_range.asm/1.9/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_front.asm/1.8/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_init.asm/1.7/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_insert.asm/1.7/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_insert_n.asm/1.8/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_max_size.asm/1.8/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_pop_back.asm/1.8/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_push_back.asm/1.8/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_reserve.asm/1.10/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_resize.asm/1.7/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_shrink_to_fit.asm/1.8/Thu Dec  3 03:01:08 2015//
+/asm_w_vector_size.asm/1.8/Thu Dec  3 03:01:08 2015//
+D

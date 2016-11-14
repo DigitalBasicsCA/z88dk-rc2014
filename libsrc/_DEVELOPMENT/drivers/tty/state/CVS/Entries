@@ -1,0 +1,20 @@
+/asm_tty_execute_action.asm/1.1/Thu Dec  3 22:05:51 2015//
+/asm_tty_output_char.asm/1.1/Thu Dec  3 22:05:51 2015//
+/asm_tty_param_b_absorb.asm/1.1/Thu Dec  3 22:05:51 2015//
+/asm_tty_param_b_action.asm/1.1/Thu Dec  3 22:05:51 2015//
+/asm_tty_param_bb_absorb.asm/1.1/Thu Dec  3 22:05:51 2015//
+/asm_tty_param_bb_action.asm/1.1/Thu Dec  3 22:05:51 2015//
+/asm_tty_param_bbb_absorb.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_param_bbb_action.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_param_bbbb_absorb.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_param_bbbb_action.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_reset.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_state_0.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_state_get_1.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_state_get_2.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_state_get_3.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_state_get_4.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_state_param_none_absorb.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_state_param_none_action.asm/1.1/Thu Dec  3 22:05:52 2015//
+/asm_tty_state_param_store.asm/1.1/Thu Dec  3 22:05:52 2015//
+D

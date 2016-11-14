@@ -1,0 +1,19 @@
+/readme.txt/1.2/Sun Aug  2 18:13:03 2009//
+/stdio.def/1.10/Mon Aug  3 19:12:29 2009//
+/stdio.h/1.4/Sun Aug  2 18:13:03 2009//
+/stdio.lst/1.12/Fri Aug  7 00:30:38 2009//
+D/buf////
+D/buffer////
+D/console////
+D/dev////
+D/error////
+D/fd////
+D/file////
+D/general////
+D/stream-general////
+D/stream-in////
+D/stream-out////
+D/test////
+/Makefile/1.4/Sat Nov 26 03:00:28 2011//
+/jumptbl_printf.asm/1.7/Fri Jul 15 03:01:39 2016//
+/jumptbl_scanf.asm/1.7/Fri Jul 15 03:01:39 2016//

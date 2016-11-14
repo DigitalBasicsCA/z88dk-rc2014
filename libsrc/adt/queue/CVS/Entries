@@ -1,0 +1,16 @@
+/adt_QueueBack.asm/1.6/Thu May 12 03:00:58 2016//
+/adt_QueueCount.asm/1.4/Thu May 12 03:00:58 2016//
+/adt_QueueCreate.asm/1.8/Thu May 12 03:00:58 2016//
+/adt_QueueCreateS.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_QueueDelete.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_QueueDeleteS.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_QueueDeleteS_callee.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_QueueDelete_callee.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_QueueFront.asm/1.6/Thu May 12 03:00:58 2016//
+/adt_QueuePopBack.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_QueuePopFront.asm/1.8/Thu May 12 03:00:58 2016//
+/adt_QueuePushBack.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_QueuePushBack_callee.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_QueuePushFront.asm/1.5/Thu May 12 03:00:58 2016//
+/adt_QueuePushFront_callee.asm/1.5/Thu May 12 03:00:58 2016//
+D

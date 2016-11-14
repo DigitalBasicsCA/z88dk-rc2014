@@ -1,0 +1,9 @@
+/cpm_bdos.asm/1.2/Thu Dec  3 03:01:12 2015//
+/cpm_bdos_callee.asm/1.2/Thu Dec  3 03:01:12 2015//
+/cpm_bdos_hl.asm/1.2/Thu Dec  3 03:01:12 2015//
+/cpm_bdos_hl_callee.asm/1.2/Thu Dec  3 03:01:12 2015//
+/cpm_get_offset.asm/1.2/Thu Dec  3 03:01:12 2015//
+/cpm_get_offset_fastcall.asm/1.2/Thu Dec  3 03:01:12 2015//
+/cpm_set_offset.asm/1.2/Thu Dec  3 03:01:12 2015//
+/cpm_set_offset_callee.asm/1.2/Thu Dec  3 03:01:12 2015//
+D

@@ -1,0 +1,20 @@
+/BIFROSTL_drawTileL.asm/1.2/Mon Dec 14 05:24:08 2015//
+/BIFROSTL_drawTileL_callee.asm/1.2/Mon Dec 14 05:24:08 2015//
+/BIFROSTL_fillTileAttrL.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_fillTileAttrL_callee.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_findAttrH.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_findAttrH_callee.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_getAnimGroup.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_getTile.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_getTile_callee.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_resetAnim2Frames.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_resetAnim4Frames.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_resetTileImages.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_setTile.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_setTile_callee.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_showNextTile.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_showTilePosL.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_showTilePosL_callee.asm/1.1/Mon Dec 14 05:08:25 2015//
+/BIFROSTL_start.asm/1.2/Mon Dec 14 05:24:08 2015//
+/BIFROSTL_stop.asm/1.1/Mon Dec 14 05:08:25 2015//
+D

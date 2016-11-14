@@ -1,0 +1,151 @@
+/nbcpm.lst/1.1/Mon Jun 11 14:48:21 2007//
+/tigray.lst/1.4/Wed Jun 30 13:24:20 2004//
+/zxrom.lst/1.1/Thu Aug 27 16:51:17 2009//
+D/abc80////
+D/abc800////
+D/ace////
+D/adt////
+D/algorithm////
+D/aquarius////
+D/assert////
+D/balloc////
+D/c128////
+D/cpc////
+D/cpcmath////
+D/cpm////
+D/ctype////
+D/debug////
+D/farz88////
+D/fcntl////
+D/games////
+D/genmath////
+D/graphics////
+D/im2////
+D/input////
+D/lib3d////
+D/malloc////
+D/math////
+D/msx////
+D/net////
+D/new_stdio////
+D/newbrain////
+D/oz////
+D/printflike////
+D/rcmx000////
+D/rect////
+D/rex////
+D/rs232////
+D/setjmp////
+D/sms////
+D/spectrum////
+D/sprites////
+D/standard////
+D/stdio////
+D/stdio_new////
+D/stdlib////
+D/strings////
+D/threading////
+D/ticalc////
+D/time////
+D/ts2068////
+D/vz////
+D/z80_crt0s////
+D/z88////
+D/z88math////
+D/zx81////
+D/zxmath////
+D/zxvgs////
+D/zxmmc////
+D/enterprise////
+D/osca////
+D/sdcard////
+D/x1////
+D/psg////
+D/sos////
+D/_DEVELOPMENT////
+D/nc100////
+D/tiki100////
+D/regex////
+/c128cpm.lst/1.4/Sun Jun 12 03:00:22 2016//
+/zxvgs.lst/1.3/Tue Jun 14 03:00:20 2016//
+/c128ansi.lst/1.26/Sun Jul  3 03:00:18 2016//
+/c7420.lst/1.2/Sun Jul  3 03:00:18 2016//
+/embedded.lst/1.19/Sun Jul  3 03:00:18 2016//
+/enterprise.lst/1.6/Sun Jul  3 03:00:18 2016//
+/gal.lst/1.5/Sun Jul  3 03:00:18 2016//
+/lynx.lst/1.2/Sun Jul  3 03:00:18 2016//
+/nc100.lst/1.25/Sun Jul  3 03:00:18 2016//
+/newbrain.lst/1.13/Sun Jul  3 03:00:18 2016//
+/pps.lst/1.23/Sun Jul  3 03:00:18 2016//
+/rcmx000.lst/1.16/Sun Jul  3 03:00:19 2016//
+/rex6000.lst/1.25/Sun Jul  3 03:00:19 2016//
+/sms.lst/1.8/Sun Jul  3 03:00:19 2016//
+/sos.lst/1.5/Sun Jul  3 03:00:19 2016//
+/test.lst/1.4/Sun Jul  3 03:00:19 2016//
+/ts2068.lst/1.27/Sun Jul  3 03:00:19 2016//
+/x07.lst/1.2/Sun Jul  3 03:00:19 2016//
+/zx.lst/1.78/Sun Jul  3 03:00:19 2016//
+/z80.lst/1.21/Tue Jul 12 03:00:23 2016//
+/z88.lst/1.36/Thu Jul 14 03:00:19 2016//
+/x1ansi.lst/1.13/Fri Jul 15 03:00:41 2016//
+/zx81.lst/1.51/Tue Aug  2 03:00:19 2016//
+/Make.config/1.16/Sun Sep 18 03:00:21 2016//
+/z9001.lst/1.4/Sat Oct  1 03:00:20 2016//
+/abc80.lst/1.34/Fri Oct 14 03:00:28 2016//
+/abc800.lst/1.8/Fri Oct 14 03:00:28 2016//
+/ace.lst/1.12/Fri Oct 14 03:00:28 2016//
+/aquarius.lst/1.34/Fri Oct 14 03:00:28 2016//
+/cpc.lst/1.43/Fri Oct 14 03:00:28 2016//
+/cpccpm.lst/1.6/Fri Oct 14 03:00:28 2016//
+/cpcgray.lst/1.3/Fri Oct 14 03:00:28 2016//
+/einstein.lst/1.4/Fri Oct 14 03:00:28 2016//
+/gfx128.lst/1.7/Fri Oct 14 03:00:28 2016//
+/gfx2068hr.lst/1.8/Fri Oct 14 03:00:28 2016//
+/gfx81arx.lst/1.8/Fri Oct 14 03:00:28 2016//
+/gfx81g007.lst/1.4/Fri Oct 14 03:00:28 2016//
+/gfx81hr.lst/1.14/Fri Oct 14 03:00:28 2016//
+/gfx81mt.lst/1.7/Fri Oct 14 03:00:28 2016//
+/gfx9001.lst/1.2/Fri Oct 14 03:00:28 2016//
+/gfxeg2000.lst/1.3/Fri Oct 14 03:00:28 2016//
+/gfxep.lst/1.3/Fri Oct 14 03:00:28 2016//
+/gfxephr.lst/1.3/Fri Oct 14 03:00:28 2016//
+/gfxspectrum.lst/1.3/Fri Oct 14 03:00:28 2016//
+/gfxtrs80.lst/1.3/Fri Oct 14 03:00:28 2016//
+/m5.lst/1.22/Fri Oct 14 03:00:28 2016//
+/mc1000.lst/1.9/Fri Oct 14 03:00:28 2016//
+/msx.lst/1.49/Fri Oct 14 03:00:28 2016//
+/mtx.lst/1.7/Fri Oct 14 03:00:28 2016//
+/mz.lst/1.33/Fri Oct 14 03:00:28 2016//
+/nascom.lst/1.29/Fri Oct 14 03:00:28 2016//
+/osca.lst/1.22/Fri Oct 14 03:00:28 2016//
+/ozansi.lst/1.23/Fri Oct 14 03:00:28 2016//
+/p2000.lst/1.9/Fri Oct 14 03:00:28 2016//
+/pc6001.lst/1.6/Fri Oct 14 03:00:28 2016//
+/px4.lst/1.4/Fri Oct 14 03:00:28 2016//
+/sam.lst/1.41/Fri Oct 14 03:00:28 2016//
+/sc3000.lst/1.5/Fri Oct 14 03:00:28 2016//
+/sorcerer.lst/1.6/Fri Oct 14 03:00:28 2016//
+/svi.lst/1.32/Fri Oct 14 03:00:28 2016//
+/ticalc.lst/1.32/Fri Oct 14 03:00:28 2016//
+/vg5k.lst/1.8/Fri Oct 14 03:00:28 2016//
+/vz200.lst/1.34/Fri Oct 14 03:00:28 2016//
+/z1013.lst/1.4/Fri Oct 14 03:00:28 2016//
+/z88gfx.lst/1.8/Fri Oct 14 03:00:28 2016//
+/z88net.lst/1.27/Fri Oct 14 03:00:28 2016//
+/zx80.lst/1.9/Fri Oct 14 03:00:28 2016//
+/gfx128hr.lst/1.8/Wed Oct 19 03:00:25 2016//
+/gfx128hr480.lst/1.8/Wed Oct 19 03:00:25 2016//
+/gfx9001krt.lst/1.3/Wed Oct 19 03:00:25 2016//
+/tiki100.lst/1.7/Wed Oct 19 03:00:25 2016//
+/trs80.lst/1.10/Tue Oct 25 03:00:26 2016//
+/trs80cpm.lst/1.1/Mon Oct 24 08:09:44 2016//
+/kc.lst/1.8/Sat Oct 29 03:00:24 2016//
+/zxcpm.lst/1.4/Tue Nov  1 03:00:37 2016//
+/cpm.lst/1.43/Fri Nov  4 03:00:24 2016//
+/Makefile/1.261/Sat Nov  5 03:00:24 2016//
+/gfx81.lst/1.9/Fri Nov 11 03:00:27 2016//
+/gfx81udg.lst/1.5/Fri Nov 11 03:00:27 2016//
+/gfxbase.lst/1.10/Fri Nov 11 03:00:27 2016//
+/gfxbasetxt6.lst/1.8/Fri Nov 11 03:00:27 2016//
+/gfxbasew.lst/1.8/Fri Nov 11 03:00:27 2016//
+/bee.lst/1.5/Sat Nov 12 03:00:24 2016//

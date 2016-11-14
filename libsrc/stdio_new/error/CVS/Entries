@@ -1,0 +1,16 @@
+/stdio_error_zc.asm/1.2/Mon Jan 19 03:02:03 2015//
+/stdio_errno_mc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_errno_zc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_eacces_mc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_ebadf_mc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_ebadf_zc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_edevnf_mc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_einval_mc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_einval_zc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_enfile_mc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_enfile_zc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_enomem_mc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_enomem_zc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_error_mc.asm/1.2/Sat Jan 24 03:01:31 2015//
+/stdio_success_znc.asm/1.2/Sat Jan 24 03:01:31 2015//
+D

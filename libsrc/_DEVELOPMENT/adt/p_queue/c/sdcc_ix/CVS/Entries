@@ -1,0 +1,17 @@
+/p_queue_back.asm/1.7/Thu Dec  3 03:01:07 2015//
+/p_queue_back_fastcall.asm/1.3/Thu Dec  3 03:01:07 2015//
+/p_queue_clear.asm/1.7/Thu Dec  3 03:01:07 2015//
+/p_queue_clear_fastcall.asm/1.3/Thu Dec  3 03:01:07 2015//
+/p_queue_empty.asm/1.7/Thu Dec  3 03:01:07 2015//
+/p_queue_empty_fastcall.asm/1.3/Thu Dec  3 03:01:07 2015//
+/p_queue_front.asm/1.7/Thu Dec  3 03:01:07 2015//
+/p_queue_front_fastcall.asm/1.3/Thu Dec  3 03:01:07 2015//
+/p_queue_init.asm/1.7/Thu Dec  3 03:01:07 2015//
+/p_queue_init_fastcall.asm/1.3/Thu Dec  3 03:01:07 2015//
+/p_queue_pop.asm/1.7/Thu Dec  3 03:01:07 2015//
+/p_queue_pop_fastcall.asm/1.3/Thu Dec  3 03:01:07 2015//
+/p_queue_push.asm/1.7/Thu Dec  3 03:01:07 2015//
+/p_queue_push_callee.asm/1.3/Thu Dec  3 03:01:07 2015//
+/p_queue_size.asm/1.7/Thu Dec  3 03:01:07 2015//
+/p_queue_size_fastcall.asm/1.3/Thu Dec  3 03:01:07 2015//
+D

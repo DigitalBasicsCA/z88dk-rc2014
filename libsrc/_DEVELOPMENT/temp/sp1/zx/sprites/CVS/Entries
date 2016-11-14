@@ -1,0 +1,23 @@
+/__sp1_move_c.asm/1.1/Mon May 12 02:02:26 2014//
+/__sp1_move_nc.asm/1.1/Mon May 12 02:02:26 2014//
+D/draw////
+/__sp1_add_spr_char.asm/1.4/Thu Dec  3 03:02:08 2015//
+/__sp1_remove_spr_char.asm/1.4/Thu Dec  3 03:02:08 2015//
+/_sp1_struct_cs_prototype.asm/1.4/Thu Dec  3 03:02:08 2015//
+/_sp1_struct_ss_prototype.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_AddColSpr.asm/1.5/Thu Dec  3 03:02:08 2015//
+/asm_sp1_ChangeSprType.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_CreateSpr.asm/1.5/Thu Dec  3 03:02:08 2015//
+/asm_sp1_DeleteSpr.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_GetSprClr.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_GetSprClrAddr.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_InitCharStruct.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_InsertCharStruct.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_IterateSprChar.asm/1.5/Thu Dec  3 03:02:08 2015//
+/asm_sp1_IterateUpdateSpr.asm/1.5/Thu Dec  3 03:02:08 2015//
+/asm_sp1_MoveSprAbs.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_MoveSprPix.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_MoveSprRel.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_PreShiftSpr.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_PutSprClr.asm/1.4/Thu Dec  3 03:02:08 2015//
+/asm_sp1_RemoveCharStruct.asm/1.4/Thu Dec  3 03:02:08 2015//

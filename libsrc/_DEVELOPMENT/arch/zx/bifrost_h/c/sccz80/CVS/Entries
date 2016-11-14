@@ -1,0 +1,26 @@
+/BIFROSTH_disableSprites.asm/1.1/Sun Dec 13 23:47:22 2015//
+/BIFROSTH_drawBackTilesH.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_drawBackTilesH_callee.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_drawTileH.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_drawTileH_callee.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_drawTilePosH.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_drawTilePosH_callee.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_enableSprites.asm/1.1/Sun Dec 13 23:47:22 2015//
+/BIFROSTH_fillTileAttrH.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_fillTileAttrH_callee.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_findAttrH.asm/1.2/Sun Dec 13 23:22:07 2015//
+/BIFROSTH_findAttrH_callee.asm/1.2/Sun Dec 13 23:22:07 2015//
+/BIFROSTH_getAnimGroup.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_getTile.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_getTile_callee.asm/1.2/Sun Dec 13 23:22:07 2015//
+/BIFROSTH_resetAnim2Frames.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_resetAnim4Frames.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_resetTileImages.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_setTile.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_setTile_callee.asm/1.2/Sun Dec 13 23:22:07 2015//
+/BIFROSTH_showNextTile.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_showTilePosH.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_showTilePosH_callee.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_start.asm/1.1/Sun Dec 13 23:09:41 2015//
+/BIFROSTH_stop.asm/1.1/Sun Dec 13 23:09:41 2015//
+D

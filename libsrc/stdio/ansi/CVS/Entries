@@ -1,0 +1,50 @@
+/F4PACK.BIN/1.3/Fri Jun  7 09:01:50 2002/-kb/
+/FONT3.BIN/1.1/Tue Aug 21 15:40:17 2001//
+/FONT4.BIN/1.1/Tue Aug 21 15:40:17 2001//
+/FONT5.BIN/1.1/Tue Aug 21 15:40:17 2001//
+/FONT6.BIN/1.1/Tue Aug 21 15:40:17 2001//
+/FONT8.BIN/1.1/Tue Aug 21 15:40:17 2001//
+D/abc80////
+D/ace////
+D/aquarius////
+D/c128////
+D/cpc////
+D/generic////
+D/nascom////
+D/oz////
+D/sam////
+D/sharp-mz////
+D/spectrum////
+D/sprinter////
+D/ticalc////
+D/ts2068////
+D/vz200////
+D/z88////
+D/zx81////
+/F3.BIN/1.2/Sat May 19 02:00:26 2012//
+/F4.BIN/1.2/Sat May 19 02:00:26 2012//
+/F5.BIN/1.2/Sat May 19 02:00:27 2012//
+/F8.BIN/1.2/Sat May 19 02:00:27 2012//
+D/osca////
+D/pc6001////
+/F6.BIN/1.3/Wed Feb 20 03:02:03 2013//
+/F6OLD.BIN/1.1/Tue Feb 19 12:46:39 2013/-kb/
+D/mc1000////
+D/x1////
+D/p2000////
+D/vg5k////
+D/px4////
+/f_ansi.asm/1.15/Tue Apr  5 03:01:24 2016//
+/f_ansi_dsr6.asm/1.4/Tue Apr  5 03:01:24 2016//
+/f_ansi_lf.asm/1.4/Tue Apr  5 03:01:24 2016//
+/f_ansi_putc.asm/1.5/Tue Apr  5 03:01:24 2016//
+/fputc_cons.asm/1.7/Mon May 16 03:01:08 2016//
+/puts_cons.asm/1.6/Mon May 16 03:01:08 2016//
+/ansifont_f3.asm/1.1/Mon Jun 13 21:32:52 2016//
+/ansifont_f4.asm/1.1/Mon Jun 13 21:32:52 2016//
+/ansifont_f4pack.asm/1.1/Mon Jun 13 21:32:52 2016//
+/ansifont_f5.asm/1.1/Mon Jun 13 21:32:52 2016//
+/ansifont_f6.asm/1.1/Mon Jun 13 21:32:52 2016//
+/ansifont_f8.asm/1.1/Mon Jun 13 21:32:52 2016//
+D/z1013////
+D/z9001////

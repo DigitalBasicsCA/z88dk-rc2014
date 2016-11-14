@@ -1,0 +1,19 @@
+/l_neg_64_mhl.asm/1.1/Tue May  3 01:43:57 2016//
+/l_asr_dehldehl.asm/1.2/Wed May  4 20:19:06 2016//
+/l_lsl_dehldehl.asm/1.2/Wed May  4 20:19:06 2016//
+/l_lsr_dehldehl.asm/1.2/Wed May  4 20:19:06 2016//
+/l_store_64_dehldehl_mbc.asm/1.1/Wed May  4 05:54:19 2016//
+D/fast////
+D/small////
+/l_cpl_64_dehldehl.asm/1.3/Fri May  6 03:00:49 2016//
+/l_cpl_64_mhl.asm/1.2/Fri May  6 03:00:49 2016//
+/l_testzero_64_mhl.asm/1.1/Thu May  5 17:06:24 2016//
+/l_neg_64_dehldehl.asm/1.3/Sun May  8 03:00:53 2016//
+/l_inc_64_dehldehl.asm/1.4/Tue May 10 03:00:50 2016//
+/l_load_64_dehldehl_mbc.asm/1.1/Mon May  9 03:21:04 2016//
+/l_add_64_dehldehl_a.asm/1.3/Wed May 11 03:00:46 2016//
+/l_testzero_64_dehldehl.asm/1.1/Tue May 10 16:06:10 2016//
+/l_add_64_mde_mhl.asm/1.1/Mon May 16 06:30:57 2016//
+/l_sub_64_mde_mhl.asm/1.1/Mon May 16 06:30:57 2016//
+/l_add_64_mde_mbc_mhl.asm/1.1/Thu May 19 00:22:01 2016//
+/l_sub_64_mde_mbc_mhl.asm/1.1/Thu May 19 00:22:01 2016//

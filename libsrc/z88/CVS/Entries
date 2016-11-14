@@ -1,0 +1,30 @@
+/README/1.1.1.1/Tue Jul  4 15:33:42 2000//
+/stripdev.c/1.1.1.1/Tue Jul  4 15:33:42 2000//
+/strippath.c/1.1.1.1/Tue Jul  4 15:33:42 2000//
+D/fdstdio////
+D/unused////
+/libdefs.def/1.3/Thu Apr 10 02:02:53 2014//
+/DeRegisterInt.c/1.3/Mon Mar  7 03:01:27 2016//
+/di.asm/1.6/Mon Mar  7 03:01:27 2016//
+/ei.asm/1.6/Mon Mar  7 03:01:27 2016//
+/exec_cli.c/1.3/Mon Mar  7 03:01:27 2016//
+/fnexpand.c/1.3/Mon Mar  7 03:01:27 2016//
+/freescr.asm/1.5/Mon Mar  7 03:01:27 2016//
+/getpid.c/1.3/Mon Mar  7 03:01:27 2016//
+/nameapp.c/1.3/Mon Mar  7 03:01:27 2016//
+/openpopup.c/1.6/Mon Mar  7 03:01:27 2016//
+/opentitled.c/1.6/Mon Mar  7 03:01:27 2016//
+/openwindow.c/1.3/Mon Mar  7 03:01:27 2016//
+/opwin.asm/1.5/Mon Mar  7 03:01:27 2016//
+/pagewait.asm/1.6/Mon Mar  7 03:01:27 2016//
+/readmail.asm/1.5/Mon Mar  7 03:01:27 2016//
+/restscr.asm/1.5/Mon Mar  7 03:01:27 2016//
+/savescr.asm/1.5/Mon Mar  7 03:01:27 2016//
+/sendmail.asm/1.5/Mon Mar  7 03:01:27 2016//
+/wcclose.c/1.3/Mon Mar  7 03:01:27 2016//
+/wcnext.c/1.3/Mon Mar  7 03:01:27 2016//
+/wcopen.c/1.3/Mon Mar  7 03:01:27 2016//
+/QueryPackage.c/1.4/Fri Jun 24 03:01:14 2016//
+/RegisterInt.c/1.5/Fri Jun 24 03:01:14 2016//
+/Makefile/1.18/Thu Jul 14 03:01:21 2016//
+/.cvsignore/1.1/Fri Jul 22 16:32:37 2016//

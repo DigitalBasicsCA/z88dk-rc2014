@@ -1,0 +1,20 @@
+/psg.lst/1.1/Fri Nov 15 11:23:48 2013//
+/psg_channels.c/1.1/Fri Nov 15 07:26:41 2013//
+/psg_envelope.c/1.1/Fri Nov 15 07:26:41 2013//
+/psg_noise.c/1.1/Fri Nov 15 07:26:41 2013//
+/psg_noise_channels.c/1.1/Fri Nov 15 07:26:41 2013//
+/psg_tone.c/1.1/Fri Nov 15 07:26:41 2013//
+/psg_tone_channels.c/1.1/Fri Nov 15 07:26:41 2013//
+/psg_volume.c/1.1/Fri Nov 15 07:26:41 2013//
+D/aquarius////
+D/mc1000////
+D/msx////
+D/x1////
+D/spectrum////
+D/ts2068////
+D/zx81////
+D/cpc////
+D/pc6001////
+D/tiki100////
+D/trs80////
+/Makefile/1.11/Fri Jul 15 03:01:34 2016//

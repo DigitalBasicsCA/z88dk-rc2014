@@ -1,0 +1,11 @@
+/asm_call_once.asm/1.5/Thu Dec  3 03:02:09 2015//
+/asm_mtx_destroy.asm/1.8/Thu Dec  3 03:02:09 2015//
+/asm_mtx_init.asm/1.7/Thu Dec  3 03:02:09 2015//
+/asm_mtx_lock.asm/1.6/Thu Dec  3 03:02:09 2015//
+/asm_mtx_timedlock.asm/1.8/Thu Dec  3 03:02:09 2015//
+/asm_mtx_trylock.asm/1.8/Thu Dec  3 03:02:09 2015//
+/asm_mtx_unlock.asm/1.7/Thu Dec  3 03:02:09 2015//
+/asm_spinlock_acquire.asm/1.5/Thu Dec  3 03:02:09 2015//
+/asm_spinlock_release.asm/1.5/Thu Dec  3 03:02:09 2015//
+/asm_spinlock_tryacquire.asm/1.5/Thu Dec  3 03:02:09 2015//
+D

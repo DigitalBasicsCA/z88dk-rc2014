@@ -1,0 +1,23 @@
+/p_list_back.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_clear.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_empty.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_front.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_init.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_insert.asm/1.4/Thu Dec  3 03:01:06 2015//
+/p_list_insert_after.asm/1.4/Thu Dec  3 03:01:06 2015//
+/p_list_insert_after_callee.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_insert_callee.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_next.asm/1.4/Thu Dec  3 03:01:06 2015//
+/p_list_pop_back.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_pop_front.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_prev.asm/1.4/Thu Dec  3 03:01:06 2015//
+/p_list_push_back.asm/1.4/Thu Dec  3 03:01:06 2015//
+/p_list_push_back_callee.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_push_front.asm/1.4/Thu Dec  3 03:01:06 2015//
+/p_list_push_front_callee.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_remove.asm/1.4/Thu Dec  3 03:01:06 2015//
+/p_list_remove_after.asm/1.4/Thu Dec  3 03:01:06 2015//
+/p_list_remove_after_callee.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_remove_callee.asm/1.5/Thu Dec  3 03:01:06 2015//
+/p_list_size.asm/1.5/Thu Dec  3 03:01:06 2015//
+D

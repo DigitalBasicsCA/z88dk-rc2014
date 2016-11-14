@@ -1,0 +1,23 @@
+/_exit.asm/1.4/Thu Dec  3 03:01:16 2015//
+/_exit_fastcall.asm/1.3/Thu Dec  3 03:01:16 2015//
+/close.asm/1.4/Thu Dec  3 03:01:16 2015//
+/close_fastcall.asm/1.3/Thu Dec  3 03:01:16 2015//
+/creat.asm/1.4/Thu Dec  3 03:01:16 2015//
+/creat_callee.asm/1.3/Thu Dec  3 03:01:16 2015//
+/dup.asm/1.4/Thu Dec  3 03:01:16 2015//
+/dup2.asm/1.4/Thu Dec  3 03:01:16 2015//
+/dup2_callee.asm/1.3/Thu Dec  3 03:01:16 2015//
+/dup_fastcall.asm/1.3/Thu Dec  3 03:01:16 2015//
+/ioctl.asm/1.4/Thu Dec  3 03:01:16 2015//
+/lseek.asm/1.4/Thu Dec  3 03:01:16 2015//
+/lseek_callee.asm/1.3/Thu Dec  3 03:01:16 2015//
+/open.asm/1.4/Thu Dec  3 03:01:16 2015//
+/read.asm/1.4/Thu Dec  3 03:01:16 2015//
+/read_callee.asm/1.3/Thu Dec  3 03:01:16 2015//
+/vioctl.asm/1.4/Thu Dec  3 03:01:16 2015//
+/vioctl_callee.asm/1.3/Thu Dec  3 03:01:16 2015//
+/vopen.asm/1.4/Thu Dec  3 03:01:16 2015//
+/vopen_callee.asm/1.3/Thu Dec  3 03:01:16 2015//
+/write.asm/1.4/Thu Dec  3 03:01:16 2015//
+/write_callee.asm/1.3/Thu Dec  3 03:01:16 2015//
+D
