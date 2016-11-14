@@ -1,2 +1,2 @@
-# z88dk-YAZ180
-z88dk for RC2014
+# z88dk-rc2014
+z88dk for rc2014
