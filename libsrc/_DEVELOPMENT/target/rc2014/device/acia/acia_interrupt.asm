@@ -25,10 +25,7 @@
 
         ld a, (aciaRxCount)         ; Get the number of bytes in the Rx buffer
         cp ACIA_RX_SIZE             ; check whether there is space in the buffer
-        jr c, poke_rx               ; not full, so go poke Rx byte
-        jr tx_check                 ; check if we can send something
-
-    poke_rx:
+        jr nc, tx_check             ; buffer full, check if we can send something
 
         ld a, l                     ; get Rx byte from l
         ld hl, (aciaRxIn)           ; get the pointer to where we poke
