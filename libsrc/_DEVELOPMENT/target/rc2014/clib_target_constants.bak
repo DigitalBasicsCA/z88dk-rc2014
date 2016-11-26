@@ -70,10 +70,11 @@
    defc ACIA_PE                = $40	; Parity Error (Received Byte)
    defc ACIA_IRQ               = $80	; IRQ (Either Transmitted or Received Byte)
    
-   PUBLIC ACIA_TX_SIZE, ACIA_RX_SIZE, ACIA_RX_FULLISH
+   PUBLIC ACIA_RX_SIZE, ACIA_RX_FULLSIZE, ACIA_RX_EMPTYSIZE, ACIA_TX_SIZE
    
    defc ACIA_RX_SIZE           = $80	            ; Size of the Rx Buffer
-   defc ACIA_RX_FULLISH        = ACIA_RX_SIZE - 4   ; Size of the Rx Buffer, when not_RTS is signalled
-   defc ACIA_TX_SIZE           = $80	            ; Size of the Tx Buffer   
+   defc ACIA_RX_FULLSIZE       = ACIA_RX_SIZE - $08 ; Size of the Rx Buffer, when not_RTS is signalled
+   defc ACIA_RX_EMPTYSIZE      = $08                ; Size of the Rx Buffer, when RTS is signalled
+   defc ACIA_TX_SIZE           = $80	            ; Size of the Tx Buffer
       
 ;; end target library constants ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
