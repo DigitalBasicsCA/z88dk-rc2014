@@ -19,12 +19,9 @@
 
         ld a, (aciaTxCount)         ; Get the number of bytes in the Tx buffer
         cp ACIA_TX_SIZE             ; check whether there is space in the buffer
-        ld a,l                      ; Tx byte
-
+        ld a,l                      ; move Tx byte to l
         ld l,1
         jr nc, clean_up_tx          ; buffer full, so drop the Tx byte and clean up
-
-    put_poke_tx:
 
         ld hl, (aciaTxIn)           ; get the pointer to where we poke
         ld (hl), a                  ; write the Tx byte to the aciaTxIn   
